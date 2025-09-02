@@ -1,9 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Dhrumil Kachhiya</h1>
-
-<p align="center">
-  MSC.IT Student at DAIICT 
-</p>
-
 ### About Me
 - 🎓 Pursuing **MSC in Information Technology**
 - 💻 I enjoy building clean, responsive UIs
