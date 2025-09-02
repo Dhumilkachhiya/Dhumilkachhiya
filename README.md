@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Dhrumil Kachhiya</h1>
+
 ### About Me
-- 🎓 Pursuing **MSC in Information Technology**
+- 🎓 Pursuing **MSC in Information Technology at DAIICT**
 - 💻 I enjoy building clean, responsive UIs
+
 ### Skills
 - **Languages:** HTML • CSS • JavaScript  
 - **Tools:** Git & GitHub • VS Code • npm  
