@@ -2,7 +2,6 @@
 ### About Me
 - 🎓 Pursuing **MSC in Information Technology**
 - 💻 I enjoy building clean, responsive UIs
-- 
 ### Skills
 - **Languages:** HTML • CSS • JavaScript  
 - **Tools:** Git & GitHub • VS Code • npm  
