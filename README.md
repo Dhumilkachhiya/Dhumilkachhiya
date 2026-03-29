@@ -6,7 +6,7 @@
 
 ### Skills
 - **Languages:** HTML • CSS • JavaScript  
-- **Frameworks & Runtime:** Node.js • Next.js  
+- **Frameworks & Runtime:** Node.js  
 - **Tools:** Git & GitHub • VS Code • npm  
 - **Interests:** Web Performance, Accessibility
 
