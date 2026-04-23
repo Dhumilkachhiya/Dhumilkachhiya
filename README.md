@@ -1,27 +1,48 @@
-<h1 align="center">Hi there 👋, I'm Dhrumil Kachhiya</h1>
+<h1 align="center">Dhrumil Kachhiya</h1>
+<h3 align="center">MERN Stack Developer</h3>
 
-### About Me
-- 🎓 Pursuing **MSC in Information Technology at DAIICT**
-- 💻 I enjoy building clean, responsive UIs and modern web applications
+---
 
-### Skills
-- **Languages:** HTML • CSS • JavaScript  
-- **Frameworks & Runtime:** Node.js  
-- **Tools:** Git & GitHub • VS Code • npm  
-- **Interests:** Web Performance, Accessibility
+## 🚀 Performance Overview
+- 🧠 **DSA:** Solved **300+ problems** across LeetCode, Codeforces & GeeksforGeeks  
+- 💻 **Stack:** Specialized in building **scalable full-stack applications using MERN**  
 
-### Contact
-- 📫 Email: **dhumilkachhiya12@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/dhrumil-kachhiya](https://www.linkedin.com/in/dhrumil-kachhiya-66752934b/)
-- 🏆 LeetCode: [leetcode.com/u/dhrumilkachhiya](https://leetcode.com/u/dhumilkachhiya/)  
+---
 
-### Badges
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhrumil-kachhiya)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/dhumilkachhiya/)
+## 🎓 Education
+- 🎓 **MSc Information Technology**  
+  Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)  
+  *(2025 – Present)*  
+
+---
+
+## 🛠️ Technical Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,express,mongodb,mysql,postgres,git,github,vscode,postman,linux" />
+</p>
+
+---
+
+## 🌐 Professional Hub
+
+<p align="center">
+  <a href="https://github.com/Dhumilkachhiya">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhrumil-kachhiya">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dhumilkachhiya12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/dhumilkachhiya/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhumilkachhiya&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
