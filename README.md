@@ -19,7 +19,7 @@
 ## 🛠️ Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,express,mongodb,mysql,postgres,git,github,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,express,mongodb,mysql,postgres,git,github,vscode,postman" />
 </p>
 
 ---
